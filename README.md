@@ -58,11 +58,9 @@ How the Model Works
 
 Run the Streamlit app:
 
-```
 
 https://next-word-prediction-nlp-lstm-yzjkjvettzjezvmg3bhsuw.streamlit.app/
 
-```
 
 ---
 
