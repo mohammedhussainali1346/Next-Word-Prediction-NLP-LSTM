@@ -17,6 +17,7 @@ Language models are a fundamental part of modern AI systems such as chatbots, au
 This project was created to better understand:
 
 * How sequence models process text
+* How LSTM networks handle sequential data
 * How to deploy deep learning models with Streamlit
 
 ---
